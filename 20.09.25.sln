@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latypova2", "DZ2\Latypova2.csproj", "{89880EAB-F3E1-4B13-9CC8-F06D88D5519B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov2", "Tumakov2\Tumakov2.csproj", "{535BB9DB-8404-4C6F-B202-A904B93E3E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latypova2", "Latypova2\Latypova2.csproj", "{B125D60E-B85C-4766-988A-D58884C962A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{89880EAB-F3E1-4B13-9CC8-F06D88D5519B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89880EAB-F3E1-4B13-9CC8-F06D88D5519B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89880EAB-F3E1-4B13-9CC8-F06D88D5519B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89880EAB-F3E1-4B13-9CC8-F06D88D5519B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{535BB9DB-8404-4C6F-B202-A904B93E3E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{535BB9DB-8404-4C6F-B202-A904B93E3E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{535BB9DB-8404-4C6F-B202-A904B93E3E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{535BB9DB-8404-4C6F-B202-A904B93E3E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B125D60E-B85C-4766-988A-D58884C962A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B125D60E-B85C-4766-988A-D58884C962A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B125D60E-B85C-4766-988A-D58884C962A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B125D60E-B85C-4766-988A-D58884C962A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
